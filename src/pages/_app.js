@@ -37,7 +37,9 @@ function MyApp({ Component, pageProps }) {
 
     return <Component {...pageProps} />;
 }
-
+<!-- Start of jackpotpiraten Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a21543d7-5268-440a-a4a5-d0b368ec6eb5"> </script>
+<!-- End of jackpotpiraten Zendesk Widget script -->
 
 // Only uncomment this method if you have blocking data requirements for
 // every single page in your application. This disables the ability to
